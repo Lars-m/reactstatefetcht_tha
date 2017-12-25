@@ -1,0 +1,112 @@
+{
+  "electionCandidates": [
+    {
+      "id": 1,
+      "municipality": "Lyngby",
+      "name": "Dorthe La Cour",
+      "party": "Konservative",
+      "description": "Formand for Børne- og Ungdomsudvalget, og medlem af Økonomiudvalget og Kultur- og Fritidsudvalget",
+      "image": "cour_dorthe_la.jpg",
+      "url": "http://www.ltk.dk/dorthe-la-cour"
+    },
+    {
+      "id": 2,
+      "municipality": "Lyngby",
+      "name": "Mette Schmidt Olsen",
+      "party": "Konservative",
+      "description": "Formand for Teknik- og Miljøudvalget og næstformand for Kultur- og Fritidsudvalget",
+      "image": "schmidt_olsen_mette.jpg",
+      "url": "http://www.ltk.dk/mette-schmidt-olsen"
+    },
+    {
+      "id": 3,
+      "municipality": "Lyngby",
+      "name": "Sofia Osmani",
+      "party": "Konservative",
+      "description": "Borgmester",
+      "image": "osmani_sofia.jpg",
+      "url": "http://www.ltk.dk/sofia-osmani"
+    },
+    {
+      "id": 4,
+      "municipality": "Lyngby",
+      "name": "Bodil Kornbek",
+      "party": "Socialdemokratiet",
+      "description": "Formand for Social- og Sundhedsudvalget, næstformand for Teknik- og Miljøudvalget, og medlem af Børne- og Ungdomsudvalget",
+      "image": "bodil_kornbek.jpg",
+      "url": "http://www.ltk.dk/bodil-kornbek"
+    },
+    {
+      "id": 5,
+      "municipality": "Lyngby",
+      "name": "Ib Carlsen",
+      "party": "Socialdemokratiet",
+      "description": "Medlem af Kultur- og Fritidsudvalget og Beskæftigelses- og Integrationsudvalget",
+      "image": "carlsen_ib.jpg",
+      "url": "http://www.ltk.dk/ib-carlsen"
+    },
+    {
+      "id": 6,
+      "municipality": "Lyngby",
+      "name": "Mette Hoff",
+      "party": "Socialdemokratiet",
+      "description": "Medlem af Økonomiudvalget og Næstformand for Børne- og Ungdomsudvalget",
+      "image": "hoff_mette.jpg",
+      "url": "http://www.ltk.dk/mette-hoff"
+    },
+    {
+      "id": 7,
+      "municipality": "Lyngby",
+      "name": "Simon Pihl Sørensen",
+      "party": "Socialdemokratiet",
+      "description": "1. viceborgmester. Formand for Byplanudvalget og næstformand for Økonomiudvalget",
+      "image": "pihl_simon.jpg",
+      "url": "http://www.ltk.dk/simon-pihl-soerensen"
+    },
+    {
+      "id": 8,
+      "municipality": "Lyngby",
+      "name": "Finn Riber Rasmussen",
+      "party": "Socialdemokratiet",
+      "description": "Medlem af Kultur- og Fritidsudvalget og Social- og Sundhedsudvalget",
+      "image": "riber_finn.jpg",
+      "url": "http://www.ltk.dk/finn-riber-rasmussen"
+    },
+    {
+      "id": 9,
+      "municipality": "Lyngby",
+      "name": "Karsten Lomholt",
+      "party": "Konservative",
+      "description": "Næstformand for Social- og Sundhedsudvalget, og medlem af Beskæftigelses- og Integrationsudvalget, Byplanudvalget og Børne- og Ungdomsudvalget",
+      "image": "lomholt_karsten.jpg",
+      "url": "http://www.ltk.dk/karsten-lomholt"
+    },
+    {
+      "id": 10,
+      "municipality": "Lyngby",
+      "name": "Jan Kaspersen",
+      "party": "Konservative",
+      "description": "Medlem af Økonomiudvalget og Byplanudvalget",
+      "image": "kaspersen_jan.jpg",
+      "url": "http://www.ltk.dk/jan-kaspersen"
+    },
+    {
+      "id": 11,
+      "municipality": "Fredensborg",
+      "name": "Thomas Lykke Pedersen",
+      "party": "Socialdemokratiet",
+      "description": "Borgmester og Formand for Økonomiudvalget",
+      "image": "thomas_lykke.jpg",
+      "url": ""
+    },
+    {
+      "id": 12,
+      "municipality": "Fredensborg",
+      "name": "Ulla Hardy Hansen",
+      "party": "Konservative",
+      "description": "1. Viceborgmester og Formand for Kulturudvalget, medlem af Økonomiudvalget og Plan-, Miljø- og Klimaudvalget.",
+      "image": "ulla_hardy_hansen.jpg",
+      "url": ""
+    }
+  ]
+}
